@@ -9,6 +9,7 @@
 ## :mega: Prerequisites
 To participate in the workshop you need a GitHub account and need to be invited to the workshop organization [advanced-security](https://github.com/advanced-security). If your repository hasn't been automatically created in the workshop organization, create a new project and push a copy of the `ghas-bootcamp-march-2021` project.
 
+
 ```bash
 git clone https://github.com/advanced-security/ghas-workshop.git
 cd ghas-workshop
